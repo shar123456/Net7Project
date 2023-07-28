@@ -1,0 +1,2 @@
+# Net7Project
+NetCoreCenterProject
